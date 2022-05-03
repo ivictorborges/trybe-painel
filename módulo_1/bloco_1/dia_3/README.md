@@ -18,3 +18,18 @@ O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendi
 14. Mostre na tela as 5 primeiras skills do arquivo skills.txt.
 15. Mostre na tela as 4 últimas skills do arquivo skills.txt.
 16. Apague todos os arquivos que terminem em .txt.
+17. Na pasta unix_tests, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando [curl]: (curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries")
+18. Mostre todo o conteúdo do arquivo countries.txt na tela.
+19. Mostre o conteúdo de countries.txt, página por página, até encontrar a Zambia.
+20. Mostre novamente o conteúdo de countries.txt página por página, mas agora utilize um comando para buscar por Zambia.
+21. Busque por Brazil no countries.txt.
+22. Busque novamente por brazil, mas agora utilizando o lower case.
+23. Para os próximos exercícios, crie um novo arquivo chamado phrases.txt e adicione algumas frases à sua escolha. Não precisa criar o arquivo pelo terminal.
+24. Busque pelas frases que não contenham a palavra fox.
+25. Conte o número de palavras do arquivo phrases.txt.
+26. Conte o número de linhas do arquivo phrases.txt.
+27. Crie os arquivos empty.tbt e empty.pdf.
+28. Liste todos os arquivos do diretório unix_tests.
+29. Liste todos os arquivos que terminem com txt.
+30. Liste todos os arquivos que terminem com tbt ou txt.
+31. Acesse o manual do comando ls.
