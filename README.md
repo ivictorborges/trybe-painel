@@ -1,10 +1,10 @@
 # Trybe
 
-- Este repositório contém todas as atividades de aprendizagem desenvolvidas por *[Victor Borges](linkedin.com/in/victor-borges-beasolucoes)* enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+- Este repositório contém todas as atividades de aprendizagem desenvolvidas por *[Victor Borges](https://www.linkedin.com/in/victor-borges-beasolucoes?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTWbx4QeYTqS7Jn2HGIp3CA%3D%3D)* enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 *"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."*
 
-- O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computaÃ§Ã£o, engenharia de software, metodologias ágeis e habilidades comportamentais.
+- O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
@@ -15,7 +15,7 @@
 
 ##### Bloco 2: Git & GitHub
 
-- [ ] 2-1: **O que Ã© e para que serve?**
+- [ ] 2-1: **O que são e para que serve?**
 - [ ] 2-2: **Entendendo os comandos**
 - [ ] 2-3: **Internet - Entendendo como ela funciona**
 
