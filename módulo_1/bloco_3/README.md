@@ -2,4 +2,4 @@
 
 - Esse bloco pertence ao módulo de `Fundamentos do Desenvolvimento Web` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco aprendi como estruturar páginas HTML estilizadas com o CSS de uma forma muito prática e criando vários projetos.Pude aprender como usar o CSS para estilizar as tags, usando diferentes formas de selecionar os elementos HTML, como alterar o posicionamento dos elementos na página e como algumas propriedades específicas alteram as dimensões dos elementos e sobre o significado que cada elemento HTML carrega e sobre como isso impacta a acessibilidade da página e a interpretação do conteúdo por indexadores de pesquisa, como o Google.
 
-Partindo do pressuposto, você encontrará os exercí­cios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco.
+- Partindo do pressuposto, você encontrará os exercí­cios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco.
