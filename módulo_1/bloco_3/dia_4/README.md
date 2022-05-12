@@ -1,0 +1,3 @@
+# DIA 4
+
+- O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre HTML Semântico. Dentre os conteúdos, pude ler sobre como : fazer uso dos elementos HTML de acordo com o sentido e o propósito que eles carregam, como por exempo o header, nav, aside, article, section, footer e img; criar páginas semanticamente válidas e acessíveis e entender a diferença entre elementos de bloco e elementos inline.
