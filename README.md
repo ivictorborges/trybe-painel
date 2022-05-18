@@ -30,10 +30,10 @@
 ##### Bloco 4: Introdução - JavaScript
 
 - [X] 4-1: **JavaScript - Primeiros passos**
-- [ ] 4-2: **JavaScript - Array e loop For**
-- [ ] 4-3: **JavaScript - Lógica de Programação e Algoritmos**
-- [ ] 4-4: **JavaScript - Objetos e funções**
-- [ ] 4-5: **[Projeto]()**
+- [X] 4-2: **JavaScript - Array e loop For**
+- [X] 4-3: **JavaScript - Lógica de Programação e Algoritmos**
+- [X] 4-4: **JavaScript - Objetos e funções**
+- [ ] 4-5: **[Projeto - Playground Function]()**
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
