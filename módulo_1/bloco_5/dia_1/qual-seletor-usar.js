@@ -1,3 +1,5 @@
+//ACESSANDO ELEMENTOS PELO QUERY SELECTOR
+
 let header = document.querySelector('#header-container');
     header.style.backgroundColor = 'lightgreen';
 
