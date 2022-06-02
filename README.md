@@ -38,10 +38,10 @@
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
 - [X] 5-1: **JavaScript - DOM e seletores**
-- [ ] 5-2: **JavaScript - Trabalhando com elementos**
-- [ ] 5-3: **JavaScript - Eventos**
-- [ ] 5-4: **JavaScript - Web Storage**
-- [ ] 5-5: **[Projeto]()**
+- [X] 5-2: **JavaScript - Trabalhando com elementos**
+- [X] 5-3: **JavaScript - Eventos**
+- [X] 5-4: **JavaScript - Web Storage**
+- [X] 5-5: **[Projeto - Pixels Art]()**
 - [ ] 5-6: **[Projeto]()**
 - [ ] 5-7: **[Projeto]()**
 - [ ] 5-7: **[Projeto]()**
@@ -49,9 +49,9 @@
 
 ##### Bloco 6: HTML & CSS avançado
 
-- [ ] 6-1: **HTML & CSS - Forms**
-- [ ] 6-2: **Bibliotecas JavaScript e Frameworks CSS**
-- [ ] 6-3: **CSS Flexbox - Part 1**
+- [X] 6-1: **HTML & CSS - Forms**
+- [X] 6-2: **Bibliotecas JavaScript e Frameworks CSS**
+- [X] 6-3: **CSS Flexbox - Part 1**
 - [ ] 6-4: **CSS Flexbox - Part 2**
 - [ ] 6-5: **CSS Responsivo - Mobile First**
 - [ ] 6-6: **[Projeto]()**
