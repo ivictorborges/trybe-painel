@@ -42,10 +42,6 @@
 - [X] 5-3: **JavaScript - Eventos**
 - [X] 5-4: **JavaScript - Web Storage**
 - [X] 5-5: **[Projeto - Pixels Art]()**
-- [ ] 5-6: **[Projeto]()**
-- [ ] 5-7: **[Projeto]()**
-- [ ] 5-7: **[Projeto]()**
-- [ ] 5-7: **[Projeto]()**
 
 ##### Bloco 6: HTML & CSS avançado
 
@@ -60,8 +56,8 @@
 
 - [X] 7-1: **JavaScript ES6 - let, const, arrow functions e template literals**
 - [X] 7-2: **JavaScript ES6 - Objects**
-- [ ] 7-3: **Testes unitários em JavaScript**
-- [ ] 7-4: **[Projeto]()**
+- [X] 7-3: **Testes unitários em JavaScript**
+- [X] 7-4: **[Projeto - Unit Tests]()**
 
 ##### Bloco 8: JavaScript ES6
 
