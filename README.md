@@ -61,8 +61,8 @@
 
 ##### Bloco 8: JavaScript ES6
 
-- [ ] 8-1: **JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort**
-- [ ] 8-2: **JavaScript ES6 - Higher Order Functions - map e filter**
+- [X] 8-1: **JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort**
+- [X] 8-2: **JavaScript ES6 - Higher Order Functions - map e filter**
 - [ ] 8-3: **JavaScript ES6 - Higher Order Functions - reduce**
 - [ ] 8-4: **JavaScript ES6 - spread operator, rest parameter, destructuring e mais**
 - [ ] 8-5: **[Projeto]()**
