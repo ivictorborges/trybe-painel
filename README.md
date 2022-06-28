@@ -65,7 +65,7 @@
 - [X] 8-2: **JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort**
 - [X] 8-3: **JavaScript ES6 - Higher Order Functions - map e filter**
 - [X] 8-4: **JavaScript ES6 - Higher Order Functions - reduce**
-- [ ] 8-5: **JavaScript ES6 - spread operator, rest parameter, destructuring e mais**
+- [X] 8-5: **JavaScript ES6 - spread operator, rest parameter, destructuring e mais**
 - [ ] 8-6: **[Projeto]()**
 
 ##### Bloco 9: Assincronicidade & Callbacks
