@@ -66,7 +66,7 @@
 - [X] 8-3: **JavaScript ES6 - Higher Order Functions - map e filter**
 - [X] 8-4: **JavaScript ES6 - Higher Order Functions - reduce**
 - [X] 8-5: **JavaScript ES6 - spread operator, rest parameter, destructuring e mais**
-- [ ] 8-6: **[Projeto]()**
+- [X] 8-6: **[Projeto - Zoo Functions]()**
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
