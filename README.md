@@ -6,7 +6,7 @@
 
 - O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web :hourglass:
 
 ##### Bloco 1: Introdução - Unix & Shell
 
@@ -68,6 +68,8 @@
 - [X] 8-5: **JavaScript ES6 - spread operator, rest parameter, destructuring e mais**
 - [X] 8-6: **[Projeto - Zoo Functions]()**
 
+## Desenvolvimento Front-end :hourglass_flowing_sand:
+
 ##### Bloco 9: Assincronicidade & Callbacks
 
 - [ ] 9-1: **JavaScript Assíncrono e Callbacks**
@@ -80,8 +82,6 @@
 - [ ] 10-2: **Jest - Testes Assí­ncronos**
 - [ ] 10-3: **Jest - Simulando comportamentos**
 - [ ] 10-4: **[Projeto]()**
-
-## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - React
 
