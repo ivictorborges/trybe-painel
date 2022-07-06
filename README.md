@@ -72,7 +72,7 @@
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
-- [ ] 9-1: **JavaScript Assíncrono e Callbacks**
+- [X] 9-1: **JavaScript Assíncrono e Callbacks**
 - [ ] 9-2: **JavaScript Promises**
 - [ ] 9-3: **[Projeto]()**
 
