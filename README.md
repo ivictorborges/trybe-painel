@@ -73,8 +73,9 @@
 ##### Bloco 9: Assincronicidade & Callbacks
 
 - [X] 9-1: **JavaScript Assíncrono e Callbacks**
-- [ ] 9-2: **JavaScript Promises**
-- [ ] 9-3: **[Projeto]()**
+- [X] 9-2: **JavaScript Assíncrono - Fetch API e async/await**
+- [ ] 9-3: **Jest - Testes Assíncronos**
+- [ ] 9-4: **[Projeto]()**
 
 ##### Bloco 10: Jest
 
