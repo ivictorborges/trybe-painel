@@ -77,12 +77,11 @@
 - [X] 9-3: **Jest - Testes Assíncronos**
 - [X] 9-4: **Projeto - Shopping Cart**
 
-##### Bloco 10: Jest
+##### Bloco 10: Introdução à React
 
-- [ ] 10-1: **Primeiros passos no Jest**
-- [ ] 10-2: **Jest - Testes Assí­ncronos**
-- [ ] 10-3: **Jest - Simulando comportamentos**
-- [ ] 10-4: **Projeto**
+- [X] 10-1: **'Hello, world!' no React !**
+- [ ] 10-2: **Componentes React**
+- [ ] 10-3: **Projeto**
 
 ##### Bloco 11: Introdução - React
 
