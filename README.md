@@ -80,8 +80,8 @@
 ##### Bloco 10: Introdução à React
 
 - [X] 10-1: **'Hello, world!' no React !**
-- [ ] 10-2: **Componentes React**
-- [ ] 10-3: **Projeto**
+- [X] 10-2: **Componentes React**
+- [ ] 10-3: **Projeto - Sistema Solar**
 
 ##### Bloco 11: Introdução - React
 
