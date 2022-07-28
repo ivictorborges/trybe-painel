@@ -1,0 +1,5 @@
+# BLOCO 12 - Ciclo de Vida de Componentes e React Router
+
+- Esse bloco pertence ao módulo de `Desenvolvimento Front End` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco aprendi a utilizar o componentDidMount para executar uma ação após o componente ser inserido no DOM, utilizar o shouldComponentUpdate para avaliar se uma atualização do componente deve ou não acontecer naquele momento, utilizar o componentDidUpdate para executar uma ação após o componente ser atualizado, utilizar o componentWillUnmount para realizar uma ação antes de o componente ser desmontado, utilizar o props.children para acessar os filhos de um componente React e interagir com eles, utilizar o componente BrowserRouter corretamente, criar links de navegação na aplicação com o componente Link, criar rotas, mapeando o caminho da URL com o componente correspondente, via Route, estruturar e organizar as rotas da sua aplicação com o componente Switch, usar o componente Redirect pra alternar entre rotas.
+
+- Partindo do pressuposto, você encontrará os exercí­cios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco.
