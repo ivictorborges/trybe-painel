@@ -87,13 +87,13 @@
 
 - [X] 11-1: **Componentes com estado e eventos**
 - [X] 11-2: **Formulários no React**
-- [ ] 11-3: **Projeto - Tryunfo**
+- [X] 11-3: **Projeto - Tryunfo**
 
-##### Bloco 12: React
+##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [ ] 12-1: **Components com estado**
-- [ ] 12-2: **Eventos e formulários no React**
-- [ ] 12-3: **Projeto**
+- [X] 12-1: **Ciclo de vida de componentes**
+- [X] 12-2: **React Router**
+- [ ] 12-3: **Projeto - TrybeTunes**
 
 ##### Bloco 13: React
 
