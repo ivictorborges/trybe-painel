@@ -93,7 +93,7 @@
 
 - [X] 12-1: **Ciclo de vida de componentes**
 - [X] 12-2: **React Router**
-- [ ] 12-3: **Projeto - TrybeTunes**
+- [X] 12-3: **Projeto - TrybeTunes**
 
 ##### Bloco 13: React
 
