@@ -95,17 +95,17 @@
 - [X] 12-2: **React Router**
 - [X] 12-3: **Projeto - TrybeTunes**
 
-##### Bloco 13: React
+##### Bloco 13: Metodologias Ágeis
 
-- [ ] 13-1: **Melhorando o reuso de componentes: props.children e PropTypes**
-- [ ] 13-2: **Ciclo de vida de componentes em React**
-- [ ] 13-3: **React Router**
-- [ ] 13-4: **Projeto**
+- [X] 13-1: **Metodologias ágeis**
+- [X] 13-2: **Projeto - Frontend Online Store**
 
-##### Bloco 14: Metodologias Ãgeis
+##### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 14-1: **Metodologias Ãgeis**
-- [ ] 14-2: **Projeto**
+- [X] 14-1: **RTL - Primeiros passos**
+- [X] 14-2: **RTL - Mocks e inputs**
+- [ ] 14-3: **RTL - Testando react router**
+- [ ] 14-4: **Projeto - Testes em React**
 
 ##### Bloco 15: Testes em React
 
