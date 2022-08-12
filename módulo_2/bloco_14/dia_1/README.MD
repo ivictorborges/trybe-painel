@@ -1,0 +1,3 @@
+# DIA 1
+
+- O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre RTL - Primeiros passos. Dentre os conteúdos, pude ler sobre como utilizar os seletores (queries) da React-Testing-Library em testes automatizados; simular eventos com a React-Testing-Library em testes automatizados; testar fluxos lógicos assíncronos com a React-Testing-Library; escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados.
