@@ -104,14 +104,17 @@
 
 - [X] 14-1: **RTL - Primeiros passos**
 - [X] 14-2: **RTL - Mocks e inputs**
-- [ ] 14-3: **RTL - Testando react router**
-- [ ] 14-4: **Projeto - Testes em React**
+- [X] 14-3: **RTL - Testando react router**
+- [X] 14-4: **Projeto - Testes em React**
 
-##### Bloco 15: Testes em React
+##### Bloco 15: Gerenciamento de estado com Redux
 
-- [ ] 15-1: **Testando React com a React Testing Library**
-- [ ] 15-2: **Testando React com a React Testing Library - Parte 2**
-- [ ] 15-3: **Projeto**
+- [X] 15-1: **Introdução ao Redux - O estado global da aplicação**
+- [ ] 15-2: **Usando o Redux no React**
+- [ ] 15-3: **Usando o Redux no React - Prática**
+- [ ] 15-4: **Usando o Redux no React - Actions Assíncronas**
+- [ ] 15-5: **Testes em React-Redux**
+- [ ] 15-6: **Projeto - Trybe Wallet**
 
 ##### Bloco 16: Introdução ao Redux
 
