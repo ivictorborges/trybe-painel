@@ -68,7 +68,7 @@
 - [X] 8-5: **JavaScript ES6 - spread operator, rest parameter, destructuring e mais**
 - [X] 8-6: **Projeto - Zoo Functions**
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :hourglass:
 
 ##### Seção 1: Assincronicidade & Callbacks
 
@@ -123,6 +123,19 @@
 ##### Seção 9: Context API e React Hooks
 
 - [X] 9-1: **Context API do React**
-- [ ] 9-2: **React Hooks - useState e useContext**
-- [ ] 9-3: **React Hooks - useEffect e Hooks customizados**
-- [ ] 9-4: **Projeto - StarWars Datatable com Context API e Hooks**
+- [X] 9-2: **React Hooks - useState e useContext**
+- [X] 9-3: **React Hooks - useEffect e Hooks customizados**
+- [X] 9-4: **Projeto - StarWars Datatable com Context API e Hooks**
+
+##### Seção 10: Projeto App de Receitas
+
+- [X] 10-1: **Projeto - App de Receitas**
+
+## Desenvolvimento Back-end :hourglass_flowing_sand:
+
+##### Seção 1: Docker: Utilizando Containers
+
+- [X] 1-1: **Utilizando Containers - Docker**
+- [X] 1-2: **Manipulando Imagens no Docker**
+- [X] 1-3: **Orquestrando Containers com Docker Compose**
+- [X] 1-4: **Projeto - Docker Todo-List**
