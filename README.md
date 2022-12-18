@@ -139,3 +139,53 @@
 - [X] 1-2: **Manipulando Imagens no Docker**
 - [X] 1-3: **Orquestrando Containers com Docker Compose**
 - [X] 1-4: **Projeto - Docker Todo-List**
+
+##### Seção 2: Introdução à SQL
+
+- [X] 2-1: **Banco de Dados SQL**
+- [X] 2-2: **Encontrando dados em um banco de dados**
+- [X] 2-3: **Filtrando dados de forma específica**
+- [X] 2-4: **Manipulando tabelas**
+- [X] 2-5: **Projeto - All for One**
+
+##### Seção 3: Funções SQL,JOINs e Normalização
+
+- [X] 3-1: **Funções mais usadas no SQL**
+- [X] 3-2: **Descomplicando JOINs**
+- [X] 3-3: **Transformando ideias em um modelo de banco de dados**
+- [X] 3-4: **Projeto - One for All**
+
+##### Seção 4: Introdução ao desenvolvimento web com Node.js
+
+- [X] 4-1: **Node.js: Runtime Assíncrono**
+- [X] 4-2: **API Rest com Express**
+- [X] 4-3: **Node.js: Testes de Integração**
+- [X] 4-4: **Node.js: Express e Middlewares**
+- [X] 4-5: **Node.js: Express e MySQL**
+- [X] 4-6: **Projeto - Talker Manager**
+
+##### Seção 5: Arquitetura de Software: Model, Service e Controller
+
+- [X] 5-1: **Arquitetura de Software: Camada Model**
+- [X] 5-2: **Arquitetura de Software: Camada Service**
+- [X] 5-3: **Arquitetura de Software: Camada Controller**
+- [X] 5-4: **Projeto - Store Manager**
+
+##### Seção 6: ORM e Autenticação
+
+- [X] 6-1: **ORM - Interface da Aplicação com o Banco de Dados**
+- [X] 6-2: **ORM - Associations 1:1 e 1:N**
+- [X] 6-3: **ORM - Associations N:N e Transactions**
+- [X] 6-4: **JWT - ( JSON Web Token )**
+- [X] 6-5: **Projeto - API de Blogs**
+
+##### Seção 7: Masterclass : Implantação de Aplicações na Nuvem
+
+- [X] 7-1: **Infraestrutura: Deploy com Railway**
+
+##### Seção 8: Introdução a TypeScript
+
+- [X] 8-1: **Introdução ao TypeScript**
+- [X] 8-2: **Tipagem Estática e Generics**
+- [X] 8-3: **Express com TypeScript**
+- [X] 8-4: **Projeto - Trybesmith**
