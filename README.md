@@ -131,7 +131,7 @@
 
 - [X] 10-1: **Projeto - App de Receitas**
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :hourglass:
 
 ##### Seção 1: Docker: Utilizando Containers
 
@@ -189,3 +189,41 @@
 - [X] 8-2: **Tipagem Estática e Generics**
 - [X] 8-3: **Express com TypeScript**
 - [X] 8-4: **Projeto - Trybesmith**
+
+##### Seção 9: Programação Orientada a Objetos e SOLID
+
+- [X] 9-1: **Introdução à Orientação a Objetos**
+- [X] 9-2: **Herança e Composição**
+- [X] 9-3: **Polimorfismo**
+- [X] 9-4: **SOLID - Introdução e Princípios S, O e D**
+- [X] 9-5: **SOLID - Princípios L e I**
+- [X] 9-6: **Projeto - Trybers and Dragons**
+
+##### Seção 10: Projeto - TFC - Trybe Futebol Clube
+
+- [X] 10-1: **Projeto - TFC - Trybe Futebol Clube**
+
+##### Seção 11: Introdução ao MongoDB
+
+- [X] 11-1: **MongoDB - Introdução**
+- [X] 11-2: **Filter Operators**
+- [X] 11-3: **Operadores de Consulta**
+- [X] 11-4: **Update Simples**
+- [X] 11-5: **Updates Complexos - Arrays**
+- [X] 11-6: **Projeto - Commerce**
+
+##### Seção 12: APIs OO e NoSQL
+
+- [X] 12-1: **APIs orientadas a objetos e NoSQL: POO e ODMs**
+- [X] 12-2: **APIs orientadas a objetos e NoSQL: Herança e Abstração**
+- [X] 12-3: **Projeto - Car Shop**
+
+##### Seção 13: Projeto - App Delivery
+
+- [X] 13-1: **Projeto - App Delivery**
+
+## Ciência da Computação :hourglass_flowing_sand:
+
+##### Seção 1: Introdução à Python
+
+- [X] 1-1: **Aprendendo Python**
